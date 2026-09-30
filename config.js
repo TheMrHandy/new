@@ -12,7 +12,6 @@ window.EXAM_CONFIG = {
     enabled: true,
     wrongPenalty: 1 / 3
   },
-  // توجه: در نسخه استاتیک این اطلاعات قابل مشاهده‌اند و امنیت واقعی ندارند.
   accounts: [
     { username: "T", password: "T", role: "tester", displayName: "حساب آزمایشی" },
     { username: "stu", password: "1234", role: "student", displayName: "دانش‌آموز" },
